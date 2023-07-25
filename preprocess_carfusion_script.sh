@@ -1,0 +1,1 @@
+python preprocess_carfusion.py --dataset_dir /home/sid/Desktop/carfusion/MorewoodSmall4/ --img_size "(544,960)"  --cams_to_ignore "(07,15,17)" --midas_model DPT_Large 
